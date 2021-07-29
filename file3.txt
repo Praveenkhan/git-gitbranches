@@ -1,1 +1,2 @@
 content add in branch 2 to check if we are able to merge with branch3
+content of file 3
